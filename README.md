@@ -6,7 +6,7 @@
 - 🎲 Each turn, a player rolls a dice as many times as they wish. Each result gets added to their current round score.
 - ❌ If the player rolls a **1**, their **current score is lost**, and it becomes the next player's turn.
 - 🛑 The player can choose to **"Hold"**, which means their **current score** is added to their **total score**.
-- 🏆 The first player to reach **50 points** on the **total score** **wins** the game.
+- 🏆 The first player to reach **100 points** on the **total score** **wins** the game.
 
 ## ✨ Features
 - ✅ Fully responsive UI  
